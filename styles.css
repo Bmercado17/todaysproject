@@ -1,0 +1,11 @@
+#Animals, #small-animals {
+  display: none;
+}
+body {
+  background-color: orange;
+}
+h1 {
+  text-align: center;
+  text-shadow: rgba(255, 0, 0, 0.5);
+  font-family: Arial, Helvetica, sans-serif;
+}
